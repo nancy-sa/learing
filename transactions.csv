@@ -1,0 +1,844 @@
+,Source,Target,Type
+0,light cream,chicken,undirected
+1,escalope,mushroom cream sauce,undirected
+2,escalope,pasta,undirected
+3,fromage blanc,honey,undirected
+4,herb & pepper,ground beef,undirected
+5,tomato sauce,ground beef,undirected
+6,olive oil,light cream,undirected
+7,olive oil,whole wheat pasta,undirected
+8,pasta,shrimp,undirected
+9,avocado,milk,undirected
+10,avocado,spaghetti,undirected
+11,milk,spaghetti,undirected
+12,milk,cake,undirected
+13,milk,burgers,undirected
+14,cake,burgers,undirected
+15,turkey,chocolate,undirected
+16,turkey,burgers,undirected
+17,chocolate,burgers,undirected
+18,turkey,milk,undirected
+19,turkey,burgers,undirected
+20,milk,burgers,undirected
+21,frozen vegetables,cake,undirected
+22,frozen vegetables,tomatoes,undirected
+23,cake,tomatoes,undirected
+24,cereals,spaghetti,undirected
+25,cereals,ground beef,undirected
+26,spaghetti,ground beef,undirected
+27,milk,ground beef,undirected
+28,milk,chicken,undirected
+29,ground beef,chicken,undirected
+30,nan,light cream,undirected
+31,nan,chicken,undirected
+32,light cream,chicken,undirected
+33,olive oil,milk,undirected
+34,olive oil,chicken,undirected
+35,milk,chicken,undirected
+36,olive oil,spaghetti,undirected
+37,olive oil,chicken,undirected
+38,spaghetti,chicken,undirected
+39,frozen vegetables,chocolate,undirected
+40,frozen vegetables,shrimp,undirected
+41,chocolate,shrimp,undirected
+42,herb & pepper,chocolate,undirected
+43,herb & pepper,ground beef,undirected
+44,chocolate,ground beef,undirected
+45,soup,milk,undirected
+46,soup,chocolate,undirected
+47,milk,chocolate,undirected
+48,cooking oil,spaghetti,undirected
+49,cooking oil,ground beef,undirected
+50,spaghetti,ground beef,undirected
+51,ground beef,herb & pepper,undirected
+52,ground beef,eggs,undirected
+53,herb & pepper,eggs,undirected
+54,red wine,spaghetti,undirected
+55,red wine,eggs,undirected
+56,spaghetti,eggs,undirected
+57,escalope,mushroom cream sauce,undirected
+58,escalope,nan,undirected
+59,mushroom cream sauce,nan,undirected
+60,escalope,pasta,undirected
+61,escalope,nan,undirected
+62,pasta,nan,undirected
+63,herb & pepper,french fries,undirected
+64,herb & pepper,ground beef,undirected
+65,french fries,ground beef,undirected
+66,fromage blanc,honey,undirected
+67,fromage blanc,nan,undirected
+68,honey,nan,undirected
+69,green tea,frozen vegetables,undirected
+70,green tea,tomatoes,undirected
+71,frozen vegetables,tomatoes,undirected
+72,frozen vegetables,spaghetti,undirected
+73,frozen vegetables,ground beef,undirected
+74,spaghetti,ground beef,undirected
+75,olive oil,frozen vegetables,undirected
+76,olive oil,milk,undirected
+77,frozen vegetables,milk,undirected
+78,frozen vegetables,milk,undirected
+79,frozen vegetables,soup,undirected
+80,milk,soup,undirected
+81,frozen vegetables,milk,undirected
+82,frozen vegetables,tomatoes,undirected
+83,milk,tomatoes,undirected
+84,mineral water,frozen vegetables,undirected
+85,mineral water,shrimp,undirected
+86,frozen vegetables,shrimp,undirected
+87,olive oil,frozen vegetables,undirected
+88,olive oil,spaghetti,undirected
+89,frozen vegetables,spaghetti,undirected
+90,frozen vegetables,spaghetti,undirected
+91,frozen vegetables,shrimp,undirected
+92,spaghetti,shrimp,undirected
+93,frozen vegetables,tomatoes,undirected
+94,frozen vegetables,shrimp,undirected
+95,tomatoes,shrimp,undirected
+96,frozen vegetables,spaghetti,undirected
+97,frozen vegetables,tomatoes,undirected
+98,spaghetti,tomatoes,undirected
+99,grated cheese,spaghetti,undirected
+100,grated cheese,ground beef,undirected
+101,spaghetti,ground beef,undirected
+102,green tea,tomatoes,undirected
+103,green tea,ground beef,undirected
+104,tomatoes,ground beef,undirected
+105,milk,herb & pepper,undirected
+106,milk,ground beef,undirected
+107,herb & pepper,ground beef,undirected
+108,mineral water,herb & pepper,undirected
+109,mineral water,ground beef,undirected
+110,herb & pepper,ground beef,undirected
+111,nan,herb & pepper,undirected
+112,nan,ground beef,undirected
+113,herb & pepper,ground beef,undirected
+114,herb & pepper,spaghetti,undirected
+115,herb & pepper,ground beef,undirected
+116,spaghetti,ground beef,undirected
+117,olive oil,milk,undirected
+118,olive oil,ground beef,undirected
+119,milk,ground beef,undirected
+120,soup,milk,undirected
+121,soup,ground beef,undirected
+122,milk,ground beef,undirected
+123,nan,tomato sauce,undirected
+124,nan,ground beef,undirected
+125,tomato sauce,ground beef,undirected
+126,spaghetti,pepper,undirected
+127,spaghetti,ground beef,undirected
+128,pepper,ground beef,undirected
+129,spaghetti,shrimp,undirected
+130,spaghetti,ground beef,undirected
+131,shrimp,ground beef,undirected
+132,tomato sauce,spaghetti,undirected
+133,tomato sauce,ground beef,undirected
+134,spaghetti,ground beef,undirected
+135,mineral water,spaghetti,undirected
+136,mineral water,light cream,undirected
+137,spaghetti,light cream,undirected
+138,nan,olive oil,undirected
+139,nan,light cream,undirected
+140,olive oil,light cream,undirected
+141,olive oil,milk,undirected
+142,olive oil,shrimp,undirected
+143,milk,shrimp,undirected
+144,olive oil,soup,undirected
+145,olive oil,milk,undirected
+146,soup,milk,undirected
+147,olive oil,milk,undirected
+148,olive oil,spaghetti,undirected
+149,milk,spaghetti,undirected
+150,soup,milk,undirected
+151,soup,tomatoes,undirected
+152,milk,tomatoes,undirected
+153,whole wheat pasta,milk,undirected
+154,whole wheat pasta,spaghetti,undirected
+155,milk,spaghetti,undirected
+156,mineral water,soup,undirected
+157,mineral water,olive oil,undirected
+158,soup,olive oil,undirected
+159,mineral water,whole wheat pasta,undirected
+160,mineral water,olive oil,undirected
+161,whole wheat pasta,olive oil,undirected
+162,olive oil,whole wheat pasta,undirected
+163,olive oil,nan,undirected
+164,whole wheat pasta,nan,undirected
+165,shrimp,pasta,undirected
+166,shrimp,nan,undirected
+167,pasta,nan,undirected
+168,olive oil,pancakes,undirected
+169,olive oil,spaghetti,undirected
+170,pancakes,spaghetti,undirected
+171,olive oil,spaghetti,undirected
+172,olive oil,tomatoes,undirected
+173,spaghetti,tomatoes,undirected
+174,spaghetti,tomatoes,undirected
+175,spaghetti,whole wheat rice,undirected
+176,tomatoes,whole wheat rice,undirected
+177,avocado,milk,undirected
+178,avocado,spaghetti,undirected
+179,avocado,nan,undirected
+180,milk,spaghetti,undirected
+181,milk,nan,undirected
+182,spaghetti,nan,undirected
+183,nan,milk,undirected
+184,nan,cake,undirected
+185,nan,burgers,undirected
+186,milk,cake,undirected
+187,milk,burgers,undirected
+188,cake,burgers,undirected
+189,nan,chocolate,undirected
+190,nan,turkey,undirected
+191,nan,burgers,undirected
+192,chocolate,turkey,undirected
+193,chocolate,burgers,undirected
+194,turkey,burgers,undirected
+195,nan,milk,undirected
+196,nan,turkey,undirected
+197,nan,burgers,undirected
+198,milk,turkey,undirected
+199,milk,burgers,undirected
+200,turkey,burgers,undirected
+201,frozen vegetables,cake,undirected
+202,frozen vegetables,tomatoes,undirected
+203,frozen vegetables,nan,undirected
+204,cake,tomatoes,undirected
+205,cake,nan,undirected
+206,tomatoes,nan,undirected
+207,nan,cereals,undirected
+208,nan,spaghetti,undirected
+209,nan,ground beef,undirected
+210,cereals,spaghetti,undirected
+211,cereals,ground beef,undirected
+212,spaghetti,ground beef,undirected
+213,milk,ground beef,undirected
+214,milk,nan,undirected
+215,milk,chicken,undirected
+216,ground beef,nan,undirected
+217,ground beef,chicken,undirected
+218,nan,chicken,undirected
+219,nan,milk,undirected
+220,nan,olive oil,undirected
+221,nan,chicken,undirected
+222,milk,olive oil,undirected
+223,milk,chicken,undirected
+224,olive oil,chicken,undirected
+225,nan,olive oil,undirected
+226,nan,spaghetti,undirected
+227,nan,chicken,undirected
+228,olive oil,spaghetti,undirected
+229,olive oil,chicken,undirected
+230,spaghetti,chicken,undirected
+231,mineral water,ground beef,undirected
+232,mineral water,chocolate,undirected
+233,mineral water,eggs,undirected
+234,ground beef,chocolate,undirected
+235,ground beef,eggs,undirected
+236,chocolate,eggs,undirected
+237,mineral water,frozen vegetables,undirected
+238,mineral water,chocolate,undirected
+239,mineral water,ground beef,undirected
+240,frozen vegetables,chocolate,undirected
+241,frozen vegetables,ground beef,undirected
+242,chocolate,ground beef,undirected
+243,frozen vegetables,chocolate,undirected
+244,frozen vegetables,spaghetti,undirected
+245,frozen vegetables,ground beef,undirected
+246,chocolate,spaghetti,undirected
+247,chocolate,ground beef,undirected
+248,spaghetti,ground beef,undirected
+249,mineral water,frozen vegetables,undirected
+250,mineral water,milk,undirected
+251,mineral water,chocolate,undirected
+252,frozen vegetables,milk,undirected
+253,frozen vegetables,chocolate,undirected
+254,milk,chocolate,undirected
+255,frozen vegetables,milk,undirected
+256,frozen vegetables,chocolate,undirected
+257,frozen vegetables,spaghetti,undirected
+258,milk,chocolate,undirected
+259,milk,spaghetti,undirected
+260,chocolate,spaghetti,undirected
+261,mineral water,frozen vegetables,undirected
+262,mineral water,chocolate,undirected
+263,mineral water,shrimp,undirected
+264,frozen vegetables,chocolate,undirected
+265,frozen vegetables,shrimp,undirected
+266,chocolate,shrimp,undirected
+267,frozen vegetables,chocolate,undirected
+268,frozen vegetables,shrimp,undirected
+269,frozen vegetables,nan,undirected
+270,chocolate,shrimp,undirected
+271,chocolate,nan,undirected
+272,shrimp,nan,undirected
+273,nan,herb & pepper,undirected
+274,nan,chocolate,undirected
+275,nan,ground beef,undirected
+276,herb & pepper,chocolate,undirected
+277,herb & pepper,ground beef,undirected
+278,chocolate,ground beef,undirected
+279,soup,milk,undirected
+280,soup,chocolate,undirected
+281,soup,nan,undirected
+282,milk,chocolate,undirected
+283,milk,nan,undirected
+284,chocolate,nan,undirected
+285,mineral water,chocolate,undirected
+286,mineral water,olive oil,undirected
+287,mineral water,spaghetti,undirected
+288,chocolate,olive oil,undirected
+289,chocolate,spaghetti,undirected
+290,olive oil,spaghetti,undirected
+291,mineral water,chocolate,undirected
+292,mineral water,spaghetti,undirected
+293,mineral water,shrimp,undirected
+294,chocolate,spaghetti,undirected
+295,chocolate,shrimp,undirected
+296,spaghetti,shrimp,undirected
+297,nan,cooking oil,undirected
+298,nan,spaghetti,undirected
+299,nan,ground beef,undirected
+300,cooking oil,spaghetti,undirected
+301,cooking oil,ground beef,undirected
+302,spaghetti,ground beef,undirected
+303,mineral water,frozen vegetables,undirected
+304,mineral water,milk,undirected
+305,mineral water,eggs,undirected
+306,frozen vegetables,milk,undirected
+307,frozen vegetables,eggs,undirected
+308,milk,eggs,undirected
+309,nan,ground beef,undirected
+310,nan,herb & pepper,undirected
+311,nan,eggs,undirected
+312,ground beef,herb & pepper,undirected
+313,ground beef,eggs,undirected
+314,herb & pepper,eggs,undirected
+315,nan,red wine,undirected
+316,nan,spaghetti,undirected
+317,nan,eggs,undirected
+318,red wine,spaghetti,undirected
+319,red wine,eggs,undirected
+320,spaghetti,eggs,undirected
+321,nan,herb & pepper,undirected
+322,nan,french fries,undirected
+323,nan,ground beef,undirected
+324,herb & pepper,french fries,undirected
+325,herb & pepper,ground beef,undirected
+326,french fries,ground beef,undirected
+327,mineral water,frozen smoothie,undirected
+328,mineral water,milk,undirected
+329,mineral water,spaghetti,undirected
+330,frozen smoothie,milk,undirected
+331,frozen smoothie,spaghetti,undirected
+332,milk,spaghetti,undirected
+333,green tea,frozen vegetables,undirected
+334,green tea,tomatoes,undirected
+335,green tea,nan,undirected
+336,frozen vegetables,tomatoes,undirected
+337,frozen vegetables,nan,undirected
+338,tomatoes,nan,undirected
+339,mineral water,frozen vegetables,undirected
+340,mineral water,milk,undirected
+341,mineral water,ground beef,undirected
+342,frozen vegetables,milk,undirected
+343,frozen vegetables,ground beef,undirected
+344,milk,ground beef,undirected
+345,frozen vegetables,milk,undirected
+346,frozen vegetables,spaghetti,undirected
+347,frozen vegetables,ground beef,undirected
+348,milk,spaghetti,undirected
+349,milk,ground beef,undirected
+350,spaghetti,ground beef,undirected
+351,mineral water,frozen vegetables,undirected
+352,mineral water,spaghetti,undirected
+353,mineral water,ground beef,undirected
+354,frozen vegetables,spaghetti,undirected
+355,frozen vegetables,ground beef,undirected
+356,spaghetti,ground beef,undirected
+357,nan,frozen vegetables,undirected
+358,nan,spaghetti,undirected
+359,nan,ground beef,undirected
+360,frozen vegetables,spaghetti,undirected
+361,frozen vegetables,ground beef,undirected
+362,spaghetti,ground beef,undirected
+363,mineral water,frozen vegetables,undirected
+364,mineral water,milk,undirected
+365,mineral water,olive oil,undirected
+366,frozen vegetables,milk,undirected
+367,frozen vegetables,olive oil,undirected
+368,milk,olive oil,undirected
+369,mineral water,frozen vegetables,undirected
+370,mineral water,milk,undirected
+371,mineral water,soup,undirected
+372,frozen vegetables,milk,undirected
+373,frozen vegetables,soup,undirected
+374,milk,soup,undirected
+375,mineral water,frozen vegetables,undirected
+376,mineral water,milk,undirected
+377,mineral water,spaghetti,undirected
+378,frozen vegetables,milk,undirected
+379,frozen vegetables,spaghetti,undirected
+380,milk,spaghetti,undirected
+381,olive oil,frozen vegetables,undirected
+382,olive oil,milk,undirected
+383,olive oil,nan,undirected
+384,frozen vegetables,milk,undirected
+385,frozen vegetables,nan,undirected
+386,milk,nan,undirected
+387,frozen vegetables,milk,undirected
+388,frozen vegetables,soup,undirected
+389,frozen vegetables,nan,undirected
+390,milk,soup,undirected
+391,milk,nan,undirected
+392,soup,nan,undirected
+393,frozen vegetables,milk,undirected
+394,frozen vegetables,tomatoes,undirected
+395,frozen vegetables,nan,undirected
+396,milk,tomatoes,undirected
+397,milk,nan,undirected
+398,tomatoes,nan,undirected
+399,mineral water,frozen vegetables,undirected
+400,mineral water,shrimp,undirected
+401,mineral water,nan,undirected
+402,frozen vegetables,shrimp,undirected
+403,frozen vegetables,nan,undirected
+404,shrimp,nan,undirected
+405,mineral water,frozen vegetables,undirected
+406,mineral water,spaghetti,undirected
+407,mineral water,shrimp,undirected
+408,frozen vegetables,spaghetti,undirected
+409,frozen vegetables,shrimp,undirected
+410,spaghetti,shrimp,undirected
+411,mineral water,frozen vegetables,undirected
+412,mineral water,spaghetti,undirected
+413,mineral water,tomatoes,undirected
+414,frozen vegetables,spaghetti,undirected
+415,frozen vegetables,tomatoes,undirected
+416,spaghetti,tomatoes,undirected
+417,olive oil,frozen vegetables,undirected
+418,olive oil,spaghetti,undirected
+419,olive oil,nan,undirected
+420,frozen vegetables,spaghetti,undirected
+421,frozen vegetables,nan,undirected
+422,spaghetti,nan,undirected
+423,frozen vegetables,spaghetti,undirected
+424,frozen vegetables,shrimp,undirected
+425,frozen vegetables,nan,undirected
+426,spaghetti,shrimp,undirected
+427,spaghetti,nan,undirected
+428,shrimp,nan,undirected
+429,frozen vegetables,tomatoes,undirected
+430,frozen vegetables,shrimp,undirected
+431,frozen vegetables,nan,undirected
+432,tomatoes,shrimp,undirected
+433,tomatoes,nan,undirected
+434,shrimp,nan,undirected
+435,frozen vegetables,spaghetti,undirected
+436,frozen vegetables,tomatoes,undirected
+437,frozen vegetables,nan,undirected
+438,spaghetti,tomatoes,undirected
+439,spaghetti,nan,undirected
+440,tomatoes,nan,undirected
+441,grated cheese,spaghetti,undirected
+442,grated cheese,nan,undirected
+443,grated cheese,ground beef,undirected
+444,spaghetti,nan,undirected
+445,spaghetti,ground beef,undirected
+446,nan,ground beef,undirected
+447,green tea,tomatoes,undirected
+448,green tea,nan,undirected
+449,green tea,ground beef,undirected
+450,tomatoes,nan,undirected
+451,tomatoes,ground beef,undirected
+452,nan,ground beef,undirected
+453,milk,herb & pepper,undirected
+454,milk,nan,undirected
+455,milk,ground beef,undirected
+456,herb & pepper,nan,undirected
+457,herb & pepper,ground beef,undirected
+458,nan,ground beef,undirected
+459,mineral water,herb & pepper,undirected
+460,mineral water,nan,undirected
+461,mineral water,ground beef,undirected
+462,herb & pepper,nan,undirected
+463,herb & pepper,ground beef,undirected
+464,nan,ground beef,undirected
+465,nan,herb & pepper,undirected
+466,nan,spaghetti,undirected
+467,nan,ground beef,undirected
+468,herb & pepper,spaghetti,undirected
+469,herb & pepper,ground beef,undirected
+470,spaghetti,ground beef,undirected
+471,mineral water,milk,undirected
+472,mineral water,spaghetti,undirected
+473,mineral water,ground beef,undirected
+474,milk,spaghetti,undirected
+475,milk,ground beef,undirected
+476,spaghetti,ground beef,undirected
+477,nan,milk,undirected
+478,nan,olive oil,undirected
+479,nan,ground beef,undirected
+480,milk,olive oil,undirected
+481,milk,ground beef,undirected
+482,olive oil,ground beef,undirected
+483,nan,soup,undirected
+484,nan,milk,undirected
+485,nan,ground beef,undirected
+486,soup,milk,undirected
+487,soup,ground beef,undirected
+488,milk,ground beef,undirected
+489,mineral water,olive oil,undirected
+490,mineral water,spaghetti,undirected
+491,mineral water,ground beef,undirected
+492,olive oil,spaghetti,undirected
+493,olive oil,ground beef,undirected
+494,spaghetti,ground beef,undirected
+495,mineral water,pancakes,undirected
+496,mineral water,spaghetti,undirected
+497,mineral water,ground beef,undirected
+498,pancakes,spaghetti,undirected
+499,pancakes,ground beef,undirected
+500,spaghetti,ground beef,undirected
+501,mineral water,spaghetti,undirected
+502,mineral water,tomatoes,undirected
+503,mineral water,ground beef,undirected
+504,spaghetti,tomatoes,undirected
+505,spaghetti,ground beef,undirected
+506,tomatoes,ground beef,undirected
+507,nan,spaghetti,undirected
+508,nan,pepper,undirected
+509,nan,ground beef,undirected
+510,spaghetti,pepper,undirected
+511,spaghetti,ground beef,undirected
+512,pepper,ground beef,undirected
+513,nan,spaghetti,undirected
+514,nan,shrimp,undirected
+515,nan,ground beef,undirected
+516,spaghetti,shrimp,undirected
+517,spaghetti,ground beef,undirected
+518,shrimp,ground beef,undirected
+519,nan,tomato sauce,undirected
+520,nan,spaghetti,undirected
+521,nan,ground beef,undirected
+522,tomato sauce,spaghetti,undirected
+523,tomato sauce,ground beef,undirected
+524,spaghetti,ground beef,undirected
+525,mineral water,spaghetti,undirected
+526,mineral water,nan,undirected
+527,mineral water,light cream,undirected
+528,spaghetti,nan,undirected
+529,spaghetti,light cream,undirected
+530,nan,light cream,undirected
+531,mineral water,milk,undirected
+532,mineral water,olive oil,undirected
+533,mineral water,spaghetti,undirected
+534,milk,olive oil,undirected
+535,milk,spaghetti,undirected
+536,olive oil,spaghetti,undirected
+537,mineral water,milk,undirected
+538,mineral water,spaghetti,undirected
+539,mineral water,tomatoes,undirected
+540,milk,spaghetti,undirected
+541,milk,tomatoes,undirected
+542,spaghetti,tomatoes,undirected
+543,olive oil,milk,undirected
+544,olive oil,shrimp,undirected
+545,olive oil,nan,undirected
+546,milk,shrimp,undirected
+547,milk,nan,undirected
+548,shrimp,nan,undirected
+549,olive oil,soup,undirected
+550,olive oil,milk,undirected
+551,olive oil,nan,undirected
+552,soup,milk,undirected
+553,soup,nan,undirected
+554,milk,nan,undirected
+555,olive oil,milk,undirected
+556,olive oil,spaghetti,undirected
+557,olive oil,nan,undirected
+558,milk,spaghetti,undirected
+559,milk,nan,undirected
+560,spaghetti,nan,undirected
+561,soup,milk,undirected
+562,soup,tomatoes,undirected
+563,soup,nan,undirected
+564,milk,tomatoes,undirected
+565,milk,nan,undirected
+566,tomatoes,nan,undirected
+567,whole wheat pasta,milk,undirected
+568,whole wheat pasta,spaghetti,undirected
+569,whole wheat pasta,nan,undirected
+570,milk,spaghetti,undirected
+571,milk,nan,undirected
+572,spaghetti,nan,undirected
+573,mineral water,soup,undirected
+574,mineral water,olive oil,undirected
+575,mineral water,nan,undirected
+576,soup,olive oil,undirected
+577,soup,nan,undirected
+578,olive oil,nan,undirected
+579,mineral water,whole wheat pasta,undirected
+580,mineral water,olive oil,undirected
+581,mineral water,nan,undirected
+582,whole wheat pasta,olive oil,undirected
+583,whole wheat pasta,nan,undirected
+584,olive oil,nan,undirected
+585,olive oil,pancakes,undirected
+586,olive oil,spaghetti,undirected
+587,olive oil,nan,undirected
+588,pancakes,spaghetti,undirected
+589,pancakes,nan,undirected
+590,spaghetti,nan,undirected
+591,olive oil,spaghetti,undirected
+592,olive oil,tomatoes,undirected
+593,olive oil,nan,undirected
+594,spaghetti,tomatoes,undirected
+595,spaghetti,nan,undirected
+596,tomatoes,nan,undirected
+597,whole wheat rice,spaghetti,undirected
+598,whole wheat rice,tomatoes,undirected
+599,whole wheat rice,nan,undirected
+600,spaghetti,tomatoes,undirected
+601,spaghetti,nan,undirected
+602,tomatoes,nan,undirected
+603,eggs,mineral water,undirected
+604,eggs,ground beef,undirected
+605,eggs,nan,undirected
+606,eggs,chocolate,undirected
+607,mineral water,ground beef,undirected
+608,mineral water,nan,undirected
+609,mineral water,chocolate,undirected
+610,ground beef,nan,undirected
+611,ground beef,chocolate,undirected
+612,nan,chocolate,undirected
+613,mineral water,ground beef,undirected
+614,mineral water,frozen vegetables,undirected
+615,mineral water,nan,undirected
+616,mineral water,chocolate,undirected
+617,ground beef,frozen vegetables,undirected
+618,ground beef,nan,undirected
+619,ground beef,chocolate,undirected
+620,frozen vegetables,nan,undirected
+621,frozen vegetables,chocolate,undirected
+622,nan,chocolate,undirected
+623,ground beef,frozen vegetables,undirected
+624,ground beef,spaghetti,undirected
+625,ground beef,nan,undirected
+626,ground beef,chocolate,undirected
+627,frozen vegetables,spaghetti,undirected
+628,frozen vegetables,nan,undirected
+629,frozen vegetables,chocolate,undirected
+630,spaghetti,nan,undirected
+631,spaghetti,chocolate,undirected
+632,nan,chocolate,undirected
+633,mineral water,milk,undirected
+634,mineral water,frozen vegetables,undirected
+635,mineral water,nan,undirected
+636,mineral water,chocolate,undirected
+637,milk,frozen vegetables,undirected
+638,milk,nan,undirected
+639,milk,chocolate,undirected
+640,frozen vegetables,nan,undirected
+641,frozen vegetables,chocolate,undirected
+642,nan,chocolate,undirected
+643,milk,frozen vegetables,undirected
+644,milk,spaghetti,undirected
+645,milk,nan,undirected
+646,milk,chocolate,undirected
+647,frozen vegetables,spaghetti,undirected
+648,frozen vegetables,nan,undirected
+649,frozen vegetables,chocolate,undirected
+650,spaghetti,nan,undirected
+651,spaghetti,chocolate,undirected
+652,nan,chocolate,undirected
+653,mineral water,shrimp,undirected
+654,mineral water,frozen vegetables,undirected
+655,mineral water,nan,undirected
+656,mineral water,chocolate,undirected
+657,shrimp,frozen vegetables,undirected
+658,shrimp,nan,undirected
+659,shrimp,chocolate,undirected
+660,frozen vegetables,nan,undirected
+661,frozen vegetables,chocolate,undirected
+662,nan,chocolate,undirected
+663,mineral water,spaghetti,undirected
+664,mineral water,nan,undirected
+665,mineral water,olive oil,undirected
+666,mineral water,chocolate,undirected
+667,spaghetti,nan,undirected
+668,spaghetti,olive oil,undirected
+669,spaghetti,chocolate,undirected
+670,nan,olive oil,undirected
+671,nan,chocolate,undirected
+672,olive oil,chocolate,undirected
+673,mineral water,shrimp,undirected
+674,mineral water,spaghetti,undirected
+675,mineral water,nan,undirected
+676,mineral water,chocolate,undirected
+677,shrimp,spaghetti,undirected
+678,shrimp,nan,undirected
+679,shrimp,chocolate,undirected
+680,spaghetti,nan,undirected
+681,spaghetti,chocolate,undirected
+682,nan,chocolate,undirected
+683,eggs,mineral water,undirected
+684,eggs,milk,undirected
+685,eggs,frozen vegetables,undirected
+686,eggs,nan,undirected
+687,mineral water,milk,undirected
+688,mineral water,frozen vegetables,undirected
+689,mineral water,nan,undirected
+690,milk,frozen vegetables,undirected
+691,milk,nan,undirected
+692,frozen vegetables,nan,undirected
+693,mineral water,milk,undirected
+694,mineral water,spaghetti,undirected
+695,mineral water,nan,undirected
+696,mineral water,frozen smoothie,undirected
+697,milk,spaghetti,undirected
+698,milk,nan,undirected
+699,milk,frozen smoothie,undirected
+700,spaghetti,nan,undirected
+701,spaghetti,frozen smoothie,undirected
+702,nan,frozen smoothie,undirected
+703,mineral water,milk,undirected
+704,mineral water,ground beef,undirected
+705,mineral water,frozen vegetables,undirected
+706,mineral water,nan,undirected
+707,milk,ground beef,undirected
+708,milk,frozen vegetables,undirected
+709,milk,nan,undirected
+710,ground beef,frozen vegetables,undirected
+711,ground beef,nan,undirected
+712,frozen vegetables,nan,undirected
+713,milk,ground beef,undirected
+714,milk,frozen vegetables,undirected
+715,milk,spaghetti,undirected
+716,milk,nan,undirected
+717,ground beef,frozen vegetables,undirected
+718,ground beef,spaghetti,undirected
+719,ground beef,nan,undirected
+720,frozen vegetables,spaghetti,undirected
+721,frozen vegetables,nan,undirected
+722,spaghetti,nan,undirected
+723,mineral water,ground beef,undirected
+724,mineral water,frozen vegetables,undirected
+725,mineral water,spaghetti,undirected
+726,mineral water,nan,undirected
+727,ground beef,frozen vegetables,undirected
+728,ground beef,spaghetti,undirected
+729,ground beef,nan,undirected
+730,frozen vegetables,spaghetti,undirected
+731,frozen vegetables,nan,undirected
+732,spaghetti,nan,undirected
+733,mineral water,milk,undirected
+734,mineral water,frozen vegetables,undirected
+735,mineral water,nan,undirected
+736,mineral water,olive oil,undirected
+737,milk,frozen vegetables,undirected
+738,milk,nan,undirected
+739,milk,olive oil,undirected
+740,frozen vegetables,nan,undirected
+741,frozen vegetables,olive oil,undirected
+742,nan,olive oil,undirected
+743,soup,mineral water,undirected
+744,soup,milk,undirected
+745,soup,frozen vegetables,undirected
+746,soup,nan,undirected
+747,mineral water,milk,undirected
+748,mineral water,frozen vegetables,undirected
+749,mineral water,nan,undirected
+750,milk,frozen vegetables,undirected
+751,milk,nan,undirected
+752,frozen vegetables,nan,undirected
+753,mineral water,milk,undirected
+754,mineral water,frozen vegetables,undirected
+755,mineral water,spaghetti,undirected
+756,mineral water,nan,undirected
+757,milk,frozen vegetables,undirected
+758,milk,spaghetti,undirected
+759,milk,nan,undirected
+760,frozen vegetables,spaghetti,undirected
+761,frozen vegetables,nan,undirected
+762,spaghetti,nan,undirected
+763,mineral water,shrimp,undirected
+764,mineral water,frozen vegetables,undirected
+765,mineral water,spaghetti,undirected
+766,mineral water,nan,undirected
+767,shrimp,frozen vegetables,undirected
+768,shrimp,spaghetti,undirected
+769,shrimp,nan,undirected
+770,frozen vegetables,spaghetti,undirected
+771,frozen vegetables,nan,undirected
+772,spaghetti,nan,undirected
+773,mineral water,frozen vegetables,undirected
+774,mineral water,spaghetti,undirected
+775,mineral water,nan,undirected
+776,mineral water,tomatoes,undirected
+777,frozen vegetables,spaghetti,undirected
+778,frozen vegetables,nan,undirected
+779,frozen vegetables,tomatoes,undirected
+780,spaghetti,nan,undirected
+781,spaghetti,tomatoes,undirected
+782,nan,tomatoes,undirected
+783,mineral water,milk,undirected
+784,mineral water,ground beef,undirected
+785,mineral water,spaghetti,undirected
+786,mineral water,nan,undirected
+787,milk,ground beef,undirected
+788,milk,spaghetti,undirected
+789,milk,nan,undirected
+790,ground beef,spaghetti,undirected
+791,ground beef,nan,undirected
+792,spaghetti,nan,undirected
+793,mineral water,ground beef,undirected
+794,mineral water,spaghetti,undirected
+795,mineral water,nan,undirected
+796,mineral water,olive oil,undirected
+797,ground beef,spaghetti,undirected
+798,ground beef,nan,undirected
+799,ground beef,olive oil,undirected
+800,spaghetti,nan,undirected
+801,spaghetti,olive oil,undirected
+802,nan,olive oil,undirected
+803,mineral water,pancakes,undirected
+804,mineral water,ground beef,undirected
+805,mineral water,spaghetti,undirected
+806,mineral water,nan,undirected
+807,pancakes,ground beef,undirected
+808,pancakes,spaghetti,undirected
+809,pancakes,nan,undirected
+810,ground beef,spaghetti,undirected
+811,ground beef,nan,undirected
+812,spaghetti,nan,undirected
+813,mineral water,ground beef,undirected
+814,mineral water,spaghetti,undirected
+815,mineral water,nan,undirected
+816,mineral water,tomatoes,undirected
+817,ground beef,spaghetti,undirected
+818,ground beef,nan,undirected
+819,ground beef,tomatoes,undirected
+820,spaghetti,nan,undirected
+821,spaghetti,tomatoes,undirected
+822,nan,tomatoes,undirected
+823,mineral water,milk,undirected
+824,mineral water,spaghetti,undirected
+825,mineral water,nan,undirected
+826,mineral water,olive oil,undirected
+827,milk,spaghetti,undirected
+828,milk,nan,undirected
+829,milk,olive oil,undirected
+830,spaghetti,nan,undirected
+831,spaghetti,olive oil,undirected
+832,nan,olive oil,undirected
+833,mineral water,milk,undirected
+834,mineral water,spaghetti,undirected
+835,mineral water,nan,undirected
+836,mineral water,tomatoes,undirected
+837,milk,spaghetti,undirected
+838,milk,nan,undirected
+839,milk,tomatoes,undirected
+840,spaghetti,nan,undirected
+841,spaghetti,tomatoes,undirected
+842,nan,tomatoes,undirected
